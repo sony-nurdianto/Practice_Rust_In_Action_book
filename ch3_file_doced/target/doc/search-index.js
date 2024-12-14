@@ -1,0 +1,4 @@
+var searchIndex = new Map(JSON.parse('[["ch3_file_doced",{"t":"FNNONNNNHNONNNN","n":["File","borrow","borrow_mut","data","fmt","from","into","len","main","name","","new","try_from","try_into","type_id"],"q":[[0,"ch3_file_doced"],[15,"core::fmt"],[16,"alloc::string"],[17,"core::result"],[18,"core::any"]],"i":"`f000000`000000","f":"`{b{{b{c}}}{}}{{{b{d}}}{{b{dc}}}{}}`{{{b{f}}{b{dh}}}j}{cc{}}{{}c{}}{{{b{f}}}l}{{}n}{{{b{f}}}A`}`{{{b{Ab}}}f}{c{{Ad{e}}}{}{}}{{}{{Ad{c}}}{}}{bAf}","D":"n","p":[[1,"reference"],[0,"mut"],[5,"File",0],[5,"Formatter",15],[8,"Result",15],[1,"usize"],[1,"unit"],[5,"String",16],[1,"str"],[6,"Result",17],[5,"TypeId",18]],"r":[],"b":[],"c":"OjAAAAAAAAA=","e":"OzAAAAEAAAgABAACAAMACQAAAAsAAAANAAIA"}]]'));
+if (typeof exports !== 'undefined') exports.searchIndex = searchIndex;
+else if (window.initSearch) window.initSearch(searchIndex);
+//{"start":39,"fragment_lengths":[685]}

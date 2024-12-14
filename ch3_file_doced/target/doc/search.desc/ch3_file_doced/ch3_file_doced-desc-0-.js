@@ -1,0 +1,1 @@
+searchState.loadedDescShard("ch3_file_doced", 0, "Simulating file one step line\nRepresent a “file” which probably live on file system\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nReturn the file’s length in bytes\nReturn the file name\nNew File are assumed to be empty, but a name is required")
