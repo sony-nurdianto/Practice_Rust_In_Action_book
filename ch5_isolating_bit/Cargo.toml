@@ -1,0 +1,6 @@
+[package]
+name = "ch5_isolating_bit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
