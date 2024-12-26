@@ -1,0 +1,6 @@
+[package]
+name = "ch5_u8_to_mock_rand"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

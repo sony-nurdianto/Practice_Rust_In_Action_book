@@ -1,0 +1,9 @@
+[package]
+name = "ch6_world_particel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+piston2d-graphics = "0.39"
+piston_window = "0.117"
+rand = "0.8"
