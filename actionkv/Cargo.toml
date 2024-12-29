@@ -12,7 +12,12 @@ path = "src/lib.rs"
 name = "akv_mem"
 path = "src/akv_mem.rs"
 
+[[bin]]
+name = "akv_disk"
+path = "src/akv_disk.rs"
+
 [dependencies]
+bincode = "1"
 byteorder = "1.5.0"
 crc = "1.7"
 serde = { version = "1.0.217", features = ["derive", "serde_derive"] }
