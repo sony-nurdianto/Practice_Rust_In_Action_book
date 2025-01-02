@@ -1,0 +1,11 @@
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/libtower_layer-5af0f7302585e488.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs
+
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/libtower_layer-5af0f7302585e488.rlib: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs
+
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/tower_layer-5af0f7302585e488.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs:

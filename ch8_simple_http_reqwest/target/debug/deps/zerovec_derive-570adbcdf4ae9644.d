@@ -1,0 +1,10 @@
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/libzerovec_derive-570adbcdf4ae9644.so: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs
+
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/zerovec_derive-570adbcdf4ae9644.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs:

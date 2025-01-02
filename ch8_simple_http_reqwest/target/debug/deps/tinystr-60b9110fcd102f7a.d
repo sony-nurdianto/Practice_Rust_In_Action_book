@@ -1,0 +1,12 @@
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/libtinystr-60b9110fcd102f7a.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/macros.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/ascii.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/asciibyte.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/int_ops.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/unvalidated.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/ule.rs
+
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/tinystr-60b9110fcd102f7a.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/macros.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/ascii.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/asciibyte.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/int_ops.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/unvalidated.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/ule.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/macros.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/ascii.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/asciibyte.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/error.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/int_ops.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/unvalidated.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinystr-0.7.6/src/ule.rs:

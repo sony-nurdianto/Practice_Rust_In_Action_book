@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/ch8_simple_http_reqwest: /home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/src/main.rs

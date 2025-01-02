@@ -1,0 +1,11 @@
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/libipnet-cd3a4cd93edac044.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs
+
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/libipnet-cd3a4cd93edac044.rlib: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs
+
+/home/sony/Projects/RustLearning/Practice_Rust_In_Action_book/ch8_simple_http_reqwest/target/debug/deps/ipnet-cd3a4cd93edac044.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipext.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/ipnet.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/parser.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.1/src/mask.rs:
