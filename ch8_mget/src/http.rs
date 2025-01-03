@@ -60,11 +60,11 @@ pub fn get(
     let tcp_tx_buffer = TcpSocketBuffer::new(vec![0; 1024]);
     let tcp_socket = TcpSocket::new(tcp_rx_buffer, tcp_tx_buffer);
 
-    let ip_addrs = [IpCidr::new(IpAddress::v4(192, 168, 122, 70), 24)];
+    let ip_addrs = [IpCidr::new(IpAddress::v4(192, 168, 42, 100), 24)];
 
     let fd = tap.as_raw_fd();
     let mut routes = Routes::new(BTreeMap::new());
-    let default_gateway = Ipv4Address::new(192, 168, 122, 70);
+    let default_gateway = Ipv4Address::new(192, 168, 42, 100);
     routes.add_default_ipv4_route(default_gateway).unwrap();
     let mut iface = EthernetInterfaceBuilder::new(tap)
         .ethernet_addr(mac)
