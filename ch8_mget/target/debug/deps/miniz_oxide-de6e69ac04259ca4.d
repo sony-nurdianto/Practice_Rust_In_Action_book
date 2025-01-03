@@ -1,0 +1,10 @@
+/home/sony/Learn/Rust/RustInAction/ch8_mget/target/debug/deps/libminiz_oxide-de6e69ac04259ca4.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/mod.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/core.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/output_buffer.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/stream.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/shared.rs
+
+/home/sony/Learn/Rust/RustInAction/ch8_mget/target/debug/deps/miniz_oxide-de6e69ac04259ca4.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/mod.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/core.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/output_buffer.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/stream.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/shared.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/mod.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/core.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/output_buffer.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/stream.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/shared.rs:

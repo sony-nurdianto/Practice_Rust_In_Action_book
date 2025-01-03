@@ -1,0 +1,13 @@
+/home/sony/Learn/Rust/RustInAction/ch8_mget/target/debug/deps/libtokio_uds-36506c93de63b2b6.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/datagram.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/frame.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/incoming.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/listener.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/recv_dgram.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/send_dgram.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/stream.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/ucred.rs
+
+/home/sony/Learn/Rust/RustInAction/ch8_mget/target/debug/deps/tokio_uds-36506c93de63b2b6.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/datagram.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/frame.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/incoming.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/listener.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/recv_dgram.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/send_dgram.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/stream.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/ucred.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/datagram.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/frame.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/incoming.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/listener.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/recv_dgram.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/send_dgram.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/stream.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/ucred.rs:
